@@ -1,0 +1,41 @@
+{
+  "fuente_primaria": "https://digitalcommons.usu.edu/all_datasets/48/",
+  "licencia_dataset": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "fecha_ejecucion_utc": "2026-10-27T11:04:14.312208+00:00",
+  "archivo_origen": "SDNET2018.zip",
+  "bytes_archivo_origen": 528284810,
+  "sha256_archivo_origen_calculado": "617afc074b53bfb11121b9bbd10512784e1b0b21529f542c61f2c422ebf77331",
+  "nota_checksum": "Huella calculada localmente para reproducibilidad; no afirma coincidencia con un checksum publicado.",
+  "conteos_reportados_por_fuente": {
+    "con_fisura": 2608,
+    "sin_fisura": 21726,
+    "total": 24334
+  },
+  "conteos_archivos_en_zip": {
+    "con_fisura": 2608,
+    "sin_fisura": 21726,
+    "total": 24334
+  },
+  "conteos_imagenes_legibles": {
+    "con_fisura": 2608,
+    "sin_fisura": 21726,
+    "total": 24334
+  },
+  "archivos_no_legibles": 0,
+  "duplicados_binarios_adicionales": 0,
+  "grupos_sha256_repetidos": 0,
+  "prefijos_distintos_observados": 104,
+  "advertencia_grupos_origen": "prefijo_archivo se obtiene del nombre antes del primer guion. La correspondencia prefijo-fotografia original es una inferencia, no un mapeo documentado por el README oficial. Se proponen particiones conservadoras por este prefijo, sujetas a verificar la correspondencia. No repartir aleatoriamente recortes hermanos entre entrenamiento y prueba.",
+  "proporcion_con_fisura_en_archivos": 0.10717514588641407,
+  "dimensiones_observadas": [
+    "256x256"
+  ],
+  "modos_observados": [
+    "RGB"
+  ],
+  "entorno": {
+    "python": "3.12.14",
+    "pillow": "12.3.0"
+  },
+  "alcance": "Inventario y documentación T1. Sin entrenamiento, EDA ni resultados predictivos."
+}
