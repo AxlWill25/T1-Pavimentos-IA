@@ -4,9 +4,10 @@
 
 Propuesta de un sistema de IA para identificar fisuras visibles en imágenes de pavimentos rígidos y derivar los casos inciertos a revisión humana. El apoyo se limita al cribado visual. Una fotografía no permite calcular la capacidad portante, el espesor, la resistencia ni la vida remanente del pavimento.
 
-## Equipo
+## Autor y modalidad de trabajo
 
-Completar con los nombres reales, usuarios de GitHub y tareas efectuadas por los 3 o 4 integrantes. Cada persona debe aportar un commit propio y verificable. No atribuir contribuciones inexistentes.
+- Autor: Axel Williams Chevarría Rojas
+- Usuario de GitHub: AxlWill25
 
 ## Datos
 
