@@ -23,3 +23,13 @@ El artículo de descripción del dataset documenta los conteos por clase del sub
 Dorafshan, S., Thomas, R. J., & Maguire, M. (2018). SDNET2018: An annotated image dataset for non-contact concrete crack detection using deep convolutional neural networks. Data in Brief, 21, 1664–1668. https://doi.org/10.1016/j.dib.2018.11.015
 
 Texto completo de la publicación original: https://pmc.ncbi.nlm.nih.gov/articles/PMC6247444/
+
+## Verificación realizada por el autor
+
+Fecha: 27/10/2026.
+
+Responsable: Axel Williams Chevarría Rojas.
+
+Se consultó la ficha institucional de SDNET2018 para comprobar su procedencia, autores y licencia. También se contrastaron las etiquetas del subconjunto de pavimentos con la documentación del proyecto.
+
+Se revisó el resumen del inventario incluido en el paquete, que registra 24 334 imágenes de pavimentos: 2 608 con fisura y 21 726 sin fisura.
